@@ -166,6 +166,7 @@ var swiper = new Swiper(".blog-slider", {
 //
 var swiper = new Swiper(".clients-slider", {
   slidesPerView: 2,
+  centeredSlides: false,
   spaceBetween: 24,
   breakpoints: {
     640: {
