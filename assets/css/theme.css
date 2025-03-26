@@ -59,6 +59,12 @@ img {
   padding: 130px 0;
 }
 
+.list-gallery {
+  columns: 300px;
+  column-gap: 1rem;
+}
+
+
 @media (max-width: 1199.98px) {
   .hero-section {
     padding: 110px 0;

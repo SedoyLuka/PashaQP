@@ -1,0 +1,18 @@
+// * {
+//     margin: 0;
+//     padding: 0;
+//     box-sizing: border-box;
+// }
+
+.list-gallery {
+    columns: 300px;
+    column-gap: 1rem;
+}
+
+.items-gallery {
+    column-gap: 1rem;
+}
+
+.items-gallery img{
+    width: 100%;
+}
